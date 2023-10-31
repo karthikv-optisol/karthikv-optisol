@@ -1,6 +1,7 @@
 2- 👋 Hi, I’m @karthikv-optisol
+- 🧑‍💻I'm a Full Stack Developer
 - 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning Symfony, Golang and React Native
+- 🌱 I’m currently learning Symfony, Golang, and React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... karthikvelou@optisolbusiness.com
 
